@@ -2,8 +2,8 @@
    Change these values to personalize the experience.
 ================================================================ */
 const BIRTHDAY_PERSON_NAME = "Minna - Kuchu puchu"; // EDIT HERE: Birthday person's name.
-const BIRTHDAY_DATE = "2026-12-25T00:00:00"; // EDIT HERE: Use YYYY-MM-DDTHH:mm:ss.
-const TYPING_MESSAGE = "You are the most beautiful part of my every day."; // EDIT HERE: Hero message.
+const BIRTHDAY_DATE = "2026-09-13T00:00:00"; // EDIT HERE: Use YYYY-MM-DDTHH:mm:ss.
+const TYPING_MESSAGE = "My love, ❤️You are one of the most beautiful parts of my life. No matter how far we are, you are always close to my heart. Thank you for being you, for making me smile, and for giving me so many reasons to love you more every day. I’m so lucky to have you. 🥹❤️I love you, always and forever. ❤️"; // EDIT HERE: Hero message.
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
